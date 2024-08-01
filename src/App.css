@@ -1,11 +1,17 @@
 .App {
   text-align: center;
 }
+/* body {
+  background-color: black;
+} */
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+/* label {
+  color: white
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
